@@ -5,5 +5,4 @@
   # - roles/mysql/vars/vault.yaml
   roles:
   - mysql
-  vars:
-  MySQL_HOST: mysql-dev.rushika.site
+  
