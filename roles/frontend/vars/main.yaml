@@ -1,3 +1,3 @@
-BACKEND_HOST: backend.rushika.site
+BACKEND_HOST: "backend.app-{{ ENVIRONMENT }}.rushika.site"
 APP_LOCATION: /usr/share/nginx/html
 COMPONENT: frontend
